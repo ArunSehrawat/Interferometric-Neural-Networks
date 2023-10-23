@@ -1,1 +1,1 @@
-# Interferometric_Neural_Networks
+# Interferometric Neural Networks (INNs)
