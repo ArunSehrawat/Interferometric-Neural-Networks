@@ -13,6 +13,8 @@ In this paper, we introduce INNs given below in hierarchical order. The top INN 
 ![2Blks](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347)
 
 
+<img src="https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347" width="200" height="150">
+
 -----
 
 **(1)** A Quadratic Unconstrained Binary Optimization (QUBO) problem is a combinatorial optimization problem specified by a real square matrix Q. 
