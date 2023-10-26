@@ -35,7 +35,6 @@ tively. In both cases, the optimality gaps remain under 2%.
 accuracy and $\text{f}_1$ scores on the test set. The results are obtained for every $a,b\in\{0,\cdots,9\}$ provided $a\neq b$.
 
 ![acc_mat](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/7e13bd3e-c535-46e0-a676-b8d485ad66b8)
-
 ![f1_mat](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/9e56aefc-6eda-4b27-b801-e54324b8bee7)
 
 -----
