@@ -13,7 +13,7 @@ In this paper, we introduce INNs given below in hierarchical order. The top INN 
 ![2Blks](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347)
 
 
-<img src="https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347" width="300" height="300">
+<img src="https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347" width="300" height="200">
 
 -----
 
