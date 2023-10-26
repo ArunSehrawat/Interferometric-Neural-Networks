@@ -1,10 +1,12 @@
 # Interferometric Neural Networks (INNs)
 
-All the results from these Notebooks are reported in the paper: <br>
+All the results from these Notebooks are reported in the paper: 
+
 __Arun Sehrawat, Interferometric Neural Networks, [arXiv:2310.16742](https://arxiv.org/abs/2310.16742) [quant-ph] (2023).__
 
-In this paper, we introduce INNs given below in hierarchical order. The top INN is made of INNs as shown in the middle, and the middle INN is made of INNs shown at the bottom.
+-----
 
+In this paper, we introduce INNs given below in hierarchical order. The top INN is made of INNs as shown in the middle, and the middle INN is made of INNs shown at the bottom.
 
 <img src="https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347" width="400" height="250">
 
@@ -15,7 +17,6 @@ ${}$
 ${}$
 
 ![Int (copy)](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/7eb82607-150b-48be-a5b7-50f4d9155b14)
-
 
 -----
 
