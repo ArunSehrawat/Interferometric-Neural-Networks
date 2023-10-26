@@ -39,7 +39,11 @@ accuracy and $\text{f}_1$ scores on the test set. The results are obtained for e
 
 -----
 
-**(3)** In the Jupyter Notebook __Binary_Image_classification_with_INN__, we have employed the top INN for image classification on both the MNIST and FashionMNIST \cite{Xiao17} datasets, each with $C=10$ classes.
-As we increase the number of layers, the performance---measured by 
-the accuracy and average $\text{f}_1$---of the INN improves for both datasets.
-In summary, we have attained accuracies and average $\text{f}_1$ scores of {93%} and {83%} on the MNIST and FashionMNIST datasets, respectively.
+**(3)** In the Jupyter Notebook __Binary_Image_classification_with_INN__, we have employed the top INN for image classification on both the MNIST and FashionMNIST datasets, each with $C=10$ classes.
+As we increase the number of layers, the performance---measured by the accuracy and average $\text{f}_1$---of the INN improves for both datasets.
+In summary, we have attained accuracies and average $\text{f}_1$ scores of 93% and 83% on the MNIST and FashionMNIST datasets, respectively.
+
+
+
+
+
