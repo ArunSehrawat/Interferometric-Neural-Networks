@@ -24,15 +24,14 @@ ${}$
 In the Jupyter Notebook __QUBO_with_INN__, we have generated two sets of QUBO instances, where the Q matrix sampled from a discrete uniform and the standard normal distributions.
 Each set containing one thousand instances for 17  binary variables (qubits). 
 For each problem instance, we obtained two solutions: (1) a global optimum solution through an exhaustive search over $2^{17}=131072$ possibilities and (2) a solution using the the bottom INN.
-And, we obtained the gap between the two solutions. The INN consistently yields the global optimum, achieving a success rate of 95% and 89% for the uniform and normal distributions, respec-
-tively. In both cases, the optimality gaps remain under 2%.
+And, we obtained the gap between the two solutions. The INN consistently yields the global optimum, achieving a success rate of 95% and 89% for the uniform and normal distributions, respectively. In both cases, the optimality gaps remain under 2%.
 
 ![opt_gap](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/3d1240e7-0281-4639-adbf-5cfca0a8f6f9)
 
 -----
 
 **(2)** In the Jupyter Notebook __Binary_Image_classification_with_INN__, we have employed the bottom INN for binary image classifications on the MNIST dataset. To create a 2-class classification problem, we gathered all the images of only two specific digits, denoted as $a$ and $b$, which are respectively labeled as the negative class and the positive class. After the training of the INN, we evaluate its performance by using
-accuracy and $\text{f}_1$ scores on the test set. The results are obtained for every $a,b\in\{0,\cdots,9\}$ provided $a\neq b$.
+accuracy and $\text{f}_1$ scores on the test set. The results are obtained for every $a,b=0,\cdots,9$ provided $a\neq b$.
 
 ![acc_mat](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/7e13bd3e-c535-46e0-a676-b8d485ad66b8)
 ![f1_mat](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/9e56aefc-6eda-4b27-b801-e54324b8bee7)
