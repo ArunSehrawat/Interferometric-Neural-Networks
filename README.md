@@ -5,14 +5,16 @@ __Arun Sehrawat, Interferometric Neural Networks, [arXiv:2310.16742](https://arx
 
 In this paper, we introduce INNs given below in hierarchical order. The top INN is made of the middle one, which is composed of the bottom INN.
 
-![Int (copy)](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/7eb82607-150b-48be-a5b7-50f4d9155b14)
+<img src="https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347" width="400" height="250">
+
+
 
 ${}$
 
 ![Int_Blk](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/19d2f69b-8ea9-4cb1-aa5e-c7b7f333ed89)
 
 ${}$
-<img src="https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347" width="400" height="300">
+![Int (copy)](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/7eb82607-150b-48be-a5b7-50f4d9155b14)
 
 ![2Blks](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347)
 
