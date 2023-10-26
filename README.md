@@ -43,7 +43,6 @@ accuracy and $\text{f}_1$ scores on the test set. The results are obtained for e
 As we increase the number of layers, the performance---measured by the accuracy and average $\text{f}_1$---of the INN improves for both datasets.
 In summary, we have attained accuracies and average $\text{f}_1$ scores of 93% and 83% on the MNIST and FashionMNIST datasets, respectively.
 
-![acc_f1](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/5374b8ae-ad7f-49c8-94ae-bd57dda458ae)
 ![acc_f1](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/557633ea-27f9-4cb1-b93a-b58057af3651)
 
 -----
