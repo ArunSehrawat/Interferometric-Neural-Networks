@@ -11,6 +11,7 @@ ${}$
 
 ![Int_Blk](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/19d2f69b-8ea9-4cb1-aa5e-c7b7f333ed89)
 
+${}$
 
 ![2Blks](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/37f68450-fa8b-4896-9d4a-d3b71e24b347)
 
