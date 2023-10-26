@@ -45,6 +45,14 @@ In summary, we have attained accuracies and average $\text{f}_1$ scores of 93% a
 
 ![acc_f1](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/5374b8ae-ad7f-49c8-94ae-bd57dda458ae)
 
+-----
+
+**(4)** In the paper, we also introduced IGANs, made of the top INNs, for image generation. 
+Separate IGANs were trained on the MNIST dataset and CelebA datasets. 
+Their complete implementation is given in the notebook __IGAN__. 
+These IGANs have successfully generated images of 0 to 9 digits and human faces.
+
+![faces](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/4482d8e2-e7b2-45ba-819e-70b4ebb498bc)
 
 
 
