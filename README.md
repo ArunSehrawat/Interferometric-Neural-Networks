@@ -7,6 +7,8 @@ In this paper, we introduce INNs given below in hierarchical order. The top INN 
 
 ![Int (copy)](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/7eb82607-150b-48be-a5b7-50f4d9155b14)
 
+$\vspace{1cm}$
+
 ![Int_Blk](https://github.com/ArunSehrawat/Interferometric-Neural-Networks/assets/99533657/19d2f69b-8ea9-4cb1-aa5e-c7b7f333ed89)
 
 
